@@ -10,4 +10,4 @@ The codes consists of the following:
 7. "Africa Shapefile" : shapefile of the study area
 8. "Data processing codes" : codes for processing the data including geospatial gridding, raster clipping, raster point data extraction and resampling
 9. "Model output rasters" : model outputs for the years 1985-2021
-9. "Input data" : we have provided the links to all the were the databases containing the rasters. Additionally the occurrence data can currently be obtained through through contacting the Vector atlas team. However, the data will be publickly available at their website in near future. other processed datasets are deposited in the icipe data repository https://dmmg.icipe.org/dataportal/dataset/malaria-vectors-plant-interaction
+10. "Input data" : we have provided the links to all the were the databases containing the rasters. Additionally the occurrence data can currently be obtained through through contacting the Vector atlas team. However, the data will be publickly available at their website in near future. other processed datasets are deposited in the icipe data repository https://dmmg.icipe.org/dataportal/dataset/
